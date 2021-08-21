@@ -1,8 +1,11 @@
+/* all components option button  */
 .option-btn:hover {
-	background-color: rgb(105, 93, 93);
-	color: white;
+  background-color: rgb(105, 93, 93);
+  color: white;
 }
+
+/* hr between delivery charge and total price  */
 .divider {
-	width: 65%;
-	border-width: 1rm;
+  width: 65%;
+  border-width: 1rm;
 }
